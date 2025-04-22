@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
+:root {
+    --font: "Inter", sans-serif;
+    --gray-10: #FFFFFF;
+    --gray-90: #434345;
+    
+    --text-color: var(--gray-90);
+    --background-color: var(--gray-10);
+}
+
+*, *::before, *::after {
+    box-sizing: border-box;
+}
+
+html, body {
+    font-family: var(--font);
+    font-weight: 400;
+    font-style: normal;
+    font-size: 16px;
+    color: var(--text-color);
+    background-color: var(--background-color);
+    margin: 0;
+}
+
+.auth-layout {
+
+}
+
+.portal-layout {
+    
+}
