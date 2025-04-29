@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "WebApi.Controllers.VerficationController",
+    "Method": "Send",
+    "RelativePath": "api/verification/send",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "WebApi.Models.SendVerificationRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

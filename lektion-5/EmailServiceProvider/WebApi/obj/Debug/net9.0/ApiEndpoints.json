@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "WebApi.Controllers.EmailController",
+    "Method": "Send",
+    "RelativePath": "api/Email/send",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "WebApi.Models.EmailSendRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
