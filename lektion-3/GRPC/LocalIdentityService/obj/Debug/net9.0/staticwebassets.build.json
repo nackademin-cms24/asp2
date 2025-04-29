@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "7vMNvZXQJgRFFe0ZxO5qBRrJP2PxO88DF/npIrF6ixw=",
+  "Source": "LocalIdentityService",
+  "BasePath": "_content/LocalIdentityService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

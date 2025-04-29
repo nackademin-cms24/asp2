@@ -1,0 +1,24 @@
+syntax = "proto3";
+
+option csharp_namespace = "LocalIdentityService";
+
+package profile;
+
+
+service ProfileContract {
+  rpc RegisterProfile (ProfileRegistrationRequest) returns (ProfileRegistrationReply);
+}
+
+
+message ProfileRegistrationRequest {
+  string user_id = 1;
+  string first_name = 2;
+  string last_name = 3;
+  string phone_number = 4;
+}
+
+
+message ProfileRegistrationReply {
+	bool succeeded = 1;
+	string message = 2;
+}

@@ -1,0 +1,146 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\cms24\\asp-2\\lektion-3\\GRPC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8BD0BD36-14F0-4C1E-AF31-30616A6C0CE1}|LocalIdentityService\\LocalIdentityService.csproj|c:\\projects\\cms24\\asp-2\\lektion-3\\grpc\\localidentityservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BD0BD36-14F0-4C1E-AF31-30616A6C0CE1}|LocalIdentityService\\LocalIdentityService.csproj|solutionrelative:localidentityservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A8F2AD7-D0A4-42C8-AF20-753C5122F2BA}|ProfileService\\ProfileService.csproj|c:\\projects\\cms24\\asp-2\\lektion-3\\grpc\\profileservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A8F2AD7-D0A4-42C8-AF20-753C5122F2BA}|ProfileService\\ProfileService.csproj|solutionrelative:profileservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BD0BD36-14F0-4C1E-AF31-30616A6C0CE1}|LocalIdentityService\\LocalIdentityService.csproj|c:\\projects\\cms24\\asp-2\\lektion-3\\grpc\\localidentityservice\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BD0BD36-14F0-4C1E-AF31-30616A6C0CE1}|LocalIdentityService\\LocalIdentityService.csproj|solutionrelative:localidentityservice\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BD0BD36-14F0-4C1E-AF31-30616A6C0CE1}|LocalIdentityService\\LocalIdentityService.csproj|c:\\projects\\cms24\\asp-2\\lektion-3\\grpc\\localidentityservice\\localidentityservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8BD0BD36-14F0-4C1E-AF31-30616A6C0CE1}|LocalIdentityService\\LocalIdentityService.csproj|solutionrelative:localidentityservice\\localidentityservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A8F2AD7-D0A4-42C8-AF20-753C5122F2BA}|ProfileService\\ProfileService.csproj|c:\\projects\\cms24\\asp-2\\lektion-3\\grpc\\profileservice\\protos\\profile.proto||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{4A8F2AD7-D0A4-42C8-AF20-753C5122F2BA}|ProfileService\\ProfileService.csproj|solutionrelative:profileservice\\protos\\profile.proto||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A8F2AD7-D0A4-42C8-AF20-753C5122F2BA}|ProfileService\\ProfileService.csproj|c:\\projects\\cms24\\asp-2\\lektion-3\\grpc\\profileservice\\profileservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4A8F2AD7-D0A4-42C8-AF20-753C5122F2BA}|ProfileService\\ProfileService.csproj|solutionrelative:profileservice\\profileservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__PROJECTS_CMS24_ASP_2_LEKTION_3_GRPC_PROFILESERVICE_DATA_PROFILE_DATABASE.MDF/True/SqlTable/dbo.Profiles.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__PROJECTS_CMS24_ASP_2_LEKTION_3_GRPC_LOCALIDENTITYSERVICE_DATA_IDENTITY_DATABASE.MDF/True/SqlTable/dbo.AspNetUsers.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LocalIdentityService",
+              "DocumentMoniker": "C:\\Projects\\cms24\\asp-2\\lektion-3\\GRPC\\LocalIdentityService\\LocalIdentityService.csproj",
+              "RelativeDocumentMoniker": "LocalIdentityService\\LocalIdentityService.csproj",
+              "ToolTip": "C:\\Projects\\cms24\\asp-2\\lektion-3\\GRPC\\LocalIdentityService\\LocalIdentityService.csproj",
+              "RelativeToolTip": "LocalIdentityService\\LocalIdentityService.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-23T12:17:18.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projects\\cms24\\asp-2\\lektion-3\\GRPC\\ProfileService\\Program.cs",
+              "RelativeDocumentMoniker": "ProfileService\\Program.cs",
+              "ToolTip": "C:\\Projects\\cms24\\asp-2\\lektion-3\\GRPC\\ProfileService\\Program.cs",
+              "RelativeToolTip": "ProfileService\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAC1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T12:15:31.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProfileService",
+              "DocumentMoniker": "C:\\Projects\\cms24\\asp-2\\lektion-3\\GRPC\\ProfileService\\ProfileService.csproj",
+              "RelativeDocumentMoniker": "ProfileService\\ProfileService.csproj",
+              "ToolTip": "C:\\Projects\\cms24\\asp-2\\lektion-3\\GRPC\\ProfileService\\ProfileService.csproj",
+              "RelativeToolTip": "ProfileService\\ProfileService.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-23T12:02:12.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projects\\cms24\\asp-2\\lektion-3\\GRPC\\LocalIdentityService\\Program.cs",
+              "RelativeDocumentMoniker": "LocalIdentityService\\Program.cs",
+              "ToolTip": "C:\\Projects\\cms24\\asp-2\\lektion-3\\GRPC\\LocalIdentityService\\Program.cs",
+              "RelativeToolTip": "LocalIdentityService\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T09:27:19.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "profile.proto",
+              "DocumentMoniker": "C:\\Projects\\cms24\\asp-2\\lektion-3\\GRPC\\ProfileService\\Protos\\profile.proto",
+              "RelativeDocumentMoniker": "ProfileService\\Protos\\profile.proto",
+              "ToolTip": "C:\\Projects\\cms24\\asp-2\\lektion-3\\GRPC\\ProfileService\\Protos\\profile.proto",
+              "RelativeToolTip": "ProfileService\\Protos\\profile.proto",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003853|",
+              "WhenOpened": "2025-04-22T09:26:46.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "dbo.Profiles.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__PROJECTS_CMS24_ASP_2_LEKTION_3_GRPC_PROFILESERVICE_DATA_PROFILE_DATABASE.MDF/True/SqlTable/dbo.Profiles.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__PROJECTS_CMS24_ASP_2_LEKTION_3_GRPC_PROFILESERVICE_DATA_PROFILE_DATABASE.MDF/True/SqlTable/dbo.Profiles.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-04-22T09:22:31.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "dbo.AspNetUsers.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__PROJECTS_CMS24_ASP_2_LEKTION_3_GRPC_LOCALIDENTITYSERVICE_DATA_IDENTITY_DATABASE.MDF/True/SqlTable/dbo.AspNetUsers.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__PROJECTS_CMS24_ASP_2_LEKTION_3_GRPC_LOCALIDENTITYSERVICE_DATA_IDENTITY_DATABASE.MDF/True/SqlTable/dbo.AspNetUsers.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-04-22T09:22:15.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Projects\\cms24\\asp-2\\lektion-3\\GRPC\\LocalIdentityService\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "LocalIdentityService\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Projects\\cms24\\asp-2\\lektion-3\\GRPC\\LocalIdentityService\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "LocalIdentityService\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAzwCYAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T09:16:51.833Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

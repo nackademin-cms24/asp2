@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "ProfileService.Controllers.ProfilesController",
+    "Method": "Create",
+    "RelativePath": "api/Profiles/create",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "formData",
+        "Type": "ProfileService.Models.ProfileRegistrationFormData",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

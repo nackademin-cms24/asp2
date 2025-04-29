@@ -1,0 +1,2 @@
+obj\Debug\net9.0\Protos/Profile.cs \
+obj\Debug\net9.0\Protos/ProfileGrpc.cs: Protos/profile.proto

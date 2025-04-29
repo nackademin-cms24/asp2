@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "LocalIdentityService\\LocalIdentityService.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "ProfileService\\ProfileService.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
